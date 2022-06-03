@@ -1,0 +1,29 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDMwMDAwMDAwNDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDA1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDUwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwNTAwMDAwMDAwMDcwODAwMDAwNDA3MDgwMDAwMDAwMDAxMDIwMjAyMDIwMDA2MDAwMDA1MDAwNjAwMDQwODAwMDAwMDAwMDAwMDAwMDYwMDAwMDUwMDA2MDAwNTA2MDAwMDA0MDcwNzA4MDAwNjAwMDAwMTAyMDMwMDAxMDMwMDAwMDEwMjAyMDMwMDA2MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDQwNzA3MDAwNjAwMDQwNzA3MDcwNzA3MDcwODAwMDAwNTAwMDAwMDA2MDAwMTAyMDIwMjAyMDIwMjAzMDAwMDA1MDAwMDAyMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDUwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwNTAwMDAwNzA3MDcwNzA3MDcwNzA4MDAwMDAwMDAwMDA1MDAwMDAwMDAwMDAwMDAwMDAwMDYwMDAwMDAwMDAwMDUwMDAwMjIyMjIyMjIwMDIwMDAwMDAwMDAwMDAwMDAyMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDIwMDAwMDIyMDAyMjAyMDAyMDIyMjIyMDAwMDIwMjIyMDAwMDAwMjAwMDAyMDIyMjAwMjIyMjIwMDAyMjAyMjIwMDIyMjIyMDAwMDAwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMjAyMjIwMjAyMjIyMjIwMjIwMDAyMDIwMjIyMjIyMDIyMDAwMjIwMDAwMDAwMDAwMjAwMDAwMDAwMDAwMDAwMDIwMDAyMjIyMjIyMjAwMDAyMDAwMDAwMDAwMjAwMDAwMjAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath3"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
